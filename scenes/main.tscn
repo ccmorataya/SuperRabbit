@@ -19,5 +19,7 @@ collision/margin = 0.08
 transform/pos = Vector2( 246, 152 )
 transform/scale = Vector2( 3, 3 )
 texture = ExtResource( 2 )
+vframes = 2
+hframes = 2
 
 
